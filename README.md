@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # Me Portfolio
 # About Me
@@ -7,12 +7,12 @@ Hello everyone Welcome to me Portfolio. Me Name is John and 1 years interesting 
 
 # Tools used in testing
 
-    Chrome Dev Tools
-    Postman 
-    Cypress 
-    Selenium Webdriver
-    Testlink
-    SoapUI
+ * Chrome Dev Tools
+ * Postman 
+ * Cypress 
+ * Selenium Webdriver
+ * Testlink
+ * SoapUI
 
 # Tech Stack
 * Knowledge ISTQB Foundtation level
