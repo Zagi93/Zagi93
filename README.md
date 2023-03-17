@@ -43,11 +43,12 @@
 
 # Soft Skills
 
-    Scrum
-    Teamwork
-    Excellent communication skills
-    Task prioritization
-    Process Improvement
+  * Analytical thinking
+  * Scrum
+  * Teamwork
+  * Excellent communication skills
+  * Task prioritization
+  * Process Improvement
 
 
 <!--
