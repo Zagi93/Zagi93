@@ -14,8 +14,7 @@
     SoapUI
 
 # Tech Stack
-
-    * Knowledge ISTQB FL
+* Knowledge ISTQB FL
     Creating plan test
     Creating test case
     Creating scenarios
