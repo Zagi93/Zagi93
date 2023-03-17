@@ -3,6 +3,7 @@
 # Me Portfolio
 # About Me
 
+Hello everyone Welcome to me Portfolio. Me Name is John and 1 years interesting of test manual and automatic. That place I want to show you me knowledge  and skill which I have. I’m ambition person not afraid a new challenge, all the time up me ability and knowledge of the testing. I quickly assimilation skill and I don’t have this problem. I so determination  and I good communication with team. Half of a year I went through a workshop tester I go else expending knowledge and used on the platrform Utest. I’m active on the forums tester software and now looking job in IT as tester.
 
 # Tools used in testing
 
