@@ -19,7 +19,7 @@
 * Creating test case
 * Creating scenarios
 * Reporting bugs
-* Databases:PostgreSQL
+* Databases:SQL 
 * Operating Systems:Windows, Linux
 * Languages: Javascript (Test Automation) Cypress, Selenium Webdriver
 * Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, SOAPUI, 
@@ -28,15 +28,15 @@
 
 # Courses
 
-    uTest Academy
-    Warsztaty Testerskie B2B Network
-    Podstawy manualnego testowania oprogramowania
-    Praktyczny kurs testowania oprogramowania
-    Cypress od podstaw - Automatyzacja testów
-    Kurs SQL od podstaw | MySQL
-    Postman od podstaw - testowanie REST API
-    Kurs Selenium Python od podstaw
-    GIT od podstaw dla każdego
+ * uTest Academy
+ * Warsztaty Testerskie B2B Network
+ * Podstawy manualnego testowania oprogramowania
+ * Praktyczny kurs testowania oprogramowania
+ * Cypress od podstaw - Automatyzacja testów
+ * Kurs SQL od podstaw | MySQL
+ * Postman od podstaw - testowanie REST API
+ * Kurs Selenium Python od podstaw
+ * GIT od podstaw dla każdego
 
 
     
