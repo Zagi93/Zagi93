@@ -14,7 +14,7 @@
     SoapUI
 
 # Tech Stack
-* Knowledge ISTQB FL
+* Knowledge ISTQB Foundtation level
 * Creating plan test
 * Creating test case
 * Creating scenarios
