@@ -15,16 +15,16 @@
 
 # Tech Stack
 * Knowledge ISTQB FL
-    Creating plan test
-    Creating test case
-    Creating scenarios
-    Reporting bugs
-    Databases:PostgreSQL
-    Operating Systems:Windows, Linux
-    Languages: Javascript (Test Automation) Cypress, Selenium Webdriver
-    Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, SOAPUI, 
-    Version Control Systems: GIT
-    Other tools: Confluence, JIRA, Trello, TestLink, TestRail, 
+* Creating plan test
+* Creating test case
+* Creating scenarios
+* Reporting bugs
+* Databases:PostgreSQL
+* Operating Systems:Windows, Linux
+* Languages: Javascript (Test Automation) Cypress, Selenium Webdriver
+* Testing: Postman, XML,JSON, Cypress, Selenium IDE, WebdriverIO, SOAPUI, 
+* Version Control Systems: GIT
+* Other tools: Confluence, JIRA, Trello, TestLink, TestRail, 
 
 # Courses
 
