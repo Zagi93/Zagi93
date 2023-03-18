@@ -50,6 +50,7 @@ Hello everyone Welcome to me Portfolio. Me Name is John and 1 year interesting o
   * Excellent communication skills
   * Task prioritization
   * Process Improvement
+  * quick learn new technology 
 
 
 <!--
