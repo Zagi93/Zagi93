@@ -54,7 +54,7 @@ Hello everyone Welcome to me Portfolio. Me Name is John and 1 year interesting o
   
 # My Test Documentation
   * [Bug Reports](https://github.com/Zagi93/Zagi93/tree/main/Zg%C5%82oszenia%20b%C5%82%C4%99d%C3%B3w)
-  * [Test Raports](#Test-Raports)
+  * [Test Raports](https://github.com/Zagi93/Zagi93/tree/main/Raporty%20z%20Test%C3%B3w)
   * [Test Case](#Test-Case)
 
 <!--
