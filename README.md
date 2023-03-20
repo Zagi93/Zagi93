@@ -53,7 +53,7 @@ Hello everyone Welcome to me Portfolio. Me Name is John and 1 year interesting o
   * Quick learn new technology 
   
 # My Test Documentation
-  * [Bug Reports]([Zgłoszenia błędów](https://github.com/Zagi93/Zagi93/tree/main/Zg%C5%82oszenia%20b%C5%82%C4%99d%C3%B3w))
+  * [Bug Reports](https://github.com/Zagi93/Zagi93/tree/main/Zg%C5%82oszenia%20b%C5%82%C4%99d%C3%B3w)
 
 <!--
 **Zagi93/Zagi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
