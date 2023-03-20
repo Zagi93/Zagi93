@@ -51,7 +51,9 @@ Hello everyone Welcome to me Portfolio. Me Name is John and 1 year interesting o
   * Task prioritization
   * Process Improvement
   * Quick learn new technology 
-
+  
+# My Test Documentation
+  * [Bug Reports](#bugraports)
 
 <!--
 **Zagi93/Zagi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
