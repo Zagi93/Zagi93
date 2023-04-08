@@ -1,7 +1,7 @@
 
 
-# Me Portfolio
-# About Me
+# Me Portfolio Jan Zagrodzki
+# 🔎About Me
 
 Hello everyone Welcome to me Portfolio. Me Name is John and 1 year interesting of test manual and automatic. That place I want to show you me knowledge  and skill which I have. I’m ambition person not afraid a new challenge, all the time up me ability and knowledge of the testing because I now feeling is been always me passion. I quickly assimilation skill and I don’t have this problem. I have determination and good communication with team. Half of a year ago I went through a workshop tester and now expending knowledge and used on the platrform Utest. I’m active on the forums tester software and now looking job in IT as tester.
 
